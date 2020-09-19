@@ -8,7 +8,7 @@ The dataset used in this notebook is Microsoft Research Paraphrase Corpus (**MRP
 
 You should be able to reach on the validation set **91.19** as F1 score (the score reported in the ALBERT paper is 90.9) and **87.5** as accuracy. The fine-tuning takes 35 seconds per epoch and the inference takes 2 seconds.
 
-The **main feature**s of this tutorial are :
+The **main features** of this tutorial are :
 
 [1] End-to-end ML implementation (training, validation, prediction, evaluation)
 
